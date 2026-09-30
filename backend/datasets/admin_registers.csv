@@ -1,0 +1,300 @@
+register_no,name,sem_no,department
+CSD20241001,Aadhira,1,Computer Science
+CSD20241002,Aadhya,1,Computer Science
+CSD20241003,Aaradhana,1,Computer Science
+CSD20241004,Aarthi,1,Computer Science
+CSD20241005,Abinaya,1,Computer Science
+CSD20241006,Akshaya,1,Computer Science
+CSD20241007,Bhanu,1,Computer Science
+CSD20241008,Bhavani,1,Computer Science
+CSD20241009,Bhuvana,1,Computer Science
+CSD20241010,Brinda,1,Computer Science
+CSD20241011,Chandrika,1,Computer Science
+CSD20241012,Charumathi,1,Computer Science
+CSD20241013,Chitra,1,Computer Science
+CSD20241014,Deepa,1,Computer Science
+CSD20241015,Devi,1,Computer Science
+CSD20241016,Divya,1,Computer Science
+CSD20241017,Durga,1,Computer Science
+CSD20241018,Ezhil,1,Computer Science
+CSD20241019,Ezhilarasi,1,Computer Science
+CSD20241020,Geetha,1,Computer Science
+CSD20241021,Gomathi,1,Computer Science
+CSD20241022,Gayathri,1,Computer Science
+CSD20241023,Ilakiya,1,Computer Science
+CSD20241024,Indhu,1,Computer Science
+CSD20241025,Ishwarya,1,Computer Science
+CSD20241026,Janani,1,Computer Science
+CSD20241027,Jayanthi,1,Computer Science
+CSD20241028,Jayashree,1,Computer Science
+CSD20241029,Jothi,1,Computer Science
+CSD20241030,Kalai,1,Computer Science
+CSD20241031,Kalaivani,1,Computer Science
+CSD20241032,Kalyani,1,Computer Science
+CSD20241033,Kavitha,1,Computer Science
+CSD20241034,Keerthi,1,Computer Science
+CSD20241035,Kowsalya,1,Computer Science
+CSD20241036,Lakshmi,1,Computer Science
+CSD20241037,Lalitha,1,Computer Science
+CSD20241038,Lavanya,1,Computer Science
+CSD20241039,Mahalakshmi,1,Computer Science
+CSD20241040,Malathi,1,Computer Science
+CSD20241041,Manimegalai,1,Computer Science
+CSD20241042,Meena,1,Computer Science
+CSD20241043,Mithra,1,Computer Science
+CSD20241044,Nandhini,1,Computer Science
+CSD20241045,Narmadha,1,Computer Science
+CSD20241046,Nithya,1,Computer Science
+CSD20241047,Nandhini,1,Computer Science
+CSD20241048,Narmadha,1,Computer Science
+CSD20241049,Nithya,1,Computer Science
+CSD20241050,Radha,1,Computer Science
+CSE20241051,Anusha,2,Computer Science
+CSE20241052,Barkavi,2,Computer Science
+CSE20241053,Brinda,2,Computer Science
+CSE20241054,Catherin,2,Computer Science
+CSE20241055,Caraloin,2,Computer Science
+CSE20241056,Dhanu Sri,2,Computer Science
+CSE20241057,Dhanshika,2,Computer Science
+CSE20241058,Durga,2,Computer Science
+CSE20241059,Diviya,2,Computer Science
+CSE20241060,Esvika,2,Computer Science
+CSE20241061,Fathima,2,Computer Science
+CSE20241062,Farhana,2,Computer Science
+CSE20241063,Geetha,2,Computer Science
+CSE20241064,Geneliya,2,Computer Science
+CSE20241065,Girija,2,Computer Science
+CSE20241066,Hansika,2,Computer Science
+CSE20241067,Harishvedhini,2,Computer Science
+CSE20241068,Hasini,2,Computer Science
+CSE20241069,Ilakiya,2,Computer Science
+CSE20241070,Manasha,2,Computer Science
+CSE20241071,Nithiya,2,Computer Science
+CSE20241072,Nila,2,Computer Science
+CSE20241073,Nithisha,2,Computer Science
+CSE20241074,Natasha,2,Computer Science
+CSE20241075,Reena,2,Computer Science
+CSF20241076,Afra,3,Computer Science
+CSF20241077,Amrisha,3,Computer Science
+CSF20241078,Amritha,3,Computer Science
+CSF20241079,Ishwarya,3,Computer Science
+CSF20241080,Jhansi,3,Computer Science
+CSF20241081,Jancy,3,Computer Science
+CSF20241082,Keerthana,3,Computer Science
+CSF20241083,Krithika,3,Computer Science
+CSF20241084,Kiruba,3,Computer Science
+CSF20241085,Meena,3,Computer Science
+CSF20241086,Nivetha,3,Computer Science
+CSF20241087,Nisha,3,Computer Science
+CSF20241088,Oviya,3,Computer Science
+CSF20241089,Preetha,3,Computer Science
+CSF20241090,Preethi,3,Computer Science
+CSF20241091,Priya,3,Computer Science
+CSF20241092,Pravena,3,Computer Science
+CSF20241093,Pavithra,3,Computer Science
+CSF20241094,Paru,3,Computer Science
+CSF20241095,Rinisha,3,Computer Science
+CSF20241096,Roe Shinsha,3,Computer Science
+CSF20241097,Sarvashi,3,Computer Science
+CSF20241098,Sivanthi,3,Computer Science
+CSF20241099,Sri Priya,3,Computer Science
+CSF20241100,Zara,3,Computer Science
+CSG20241101,Abinaya,4,Computer Science
+CSG20241102,Bhavani,4,Computer Science
+CSG20241103,Chitra,4,Computer Science
+CSG20241104,Deepa,4,Computer Science
+CSG20241105,Ezhilarasi,4,Computer Science
+CSG20241106,Fathima,4,Computer Science
+CSG20241107,Gayathri,4,Computer Science
+CSG20241108,H. Harini,4,Computer Science
+CSG20241109,I. Ilakiya,4,Computer Science
+CSG20241110,J. Janani,4,Computer Science
+CSG20241111,K. Kavitha,4,Computer Science
+CSG20241112,L. Lavanya,4,Computer Science
+CSG20241113,M. Meenakshi,4,Computer Science
+CSG20241114,Oviya,4,Computer Science
+CSG20241115,Pavithra,4,Computer Science
+CSG20241116,Revathi,4,Computer Science
+CSG20241117,Saranya,4,Computer Science
+CSG20241118,Thenmozhi,4,Computer Science
+CSG20241119,Uma,4,Computer Science
+CSG20241120,Vasanthi,4,Computer Science
+CSG20241121,Yamuna,4,Computer Science
+CSG20241122,Sowmiya,4,Computer Science
+CSG20241123,Keerthana,4,Computer Science
+CSG20241124,Akshaya,4,Computer Science
+CSG20241125,Nandhini,4,Computer Science
+BT202024001,Aarthi,6,Biotechnology
+BT202024002,Brindha,6,Biotechnology
+BT202024003,Charulatha,6,Biotechnology
+BT202024004,Dharani,6,Biotechnology
+BT202024005,Eshwari,6,Biotechnology
+BT202024006,Farzana,6,Biotechnology
+BT202024007,Gowri,6,Biotechnology
+BT202024008,Hemalatha,6,Biotechnology
+BT202024009,Indira,6,Biotechnology
+BT202024010,Jayalakshmi,6,Biotechnology
+BT202024011,Kalaiselvi,6,Biotechnology
+BT202024012,Lakshana,6,Biotechnology
+BT202024013,Monisha,6,Biotechnology
+BT202024014,Nivetha,6,Biotechnology
+BT202024015,Omashree,6,Biotechnology
+BT202024016,Poornima,6,Biotechnology
+BT202024017,Qamila,6,Biotechnology
+BT202024018,Rithika,6,Biotechnology
+BT202024019,Sindhu,6,Biotechnology
+BT202024020,Tamilarasi,6,Biotechnology
+BT202024021,Udhaya,6,Biotechnology
+BT202024022,Vaishali,6,Biotechnology
+BT202024023,Winsiya,6,Biotechnology
+BT202024024,Xena,6,Biotechnology
+BT202024025,Yogalakshmi,6,Biotechnology
+BTE20202401,Abinaya,5,Biotechnology
+BTE20202402,Aarthi,5,Biotechnology
+BTE20202403,Akshaya,5,Biotechnology
+BTE20202404,Anitha,5,Biotechnology
+BTE20202405,Anjali,5,Biotechnology
+BTE20202406,Bhavani,5,Biotechnology
+BTE20202407,Brindha,5,Biotechnology
+BTE20202408,Chitra,5,Biotechnology
+BTE20202409,Deepa,5,Biotechnology
+BTE20202410,Divya,5,Biotechnology
+BTE20202411,Ezhilarasi,5,Biotechnology
+BTE20202412,Gayathri,5,Biotechnology
+BTE20202413,Gowri,5,Biotechnology
+BTE20202414,Harini,5,Biotechnology
+BTE20202415,Hemalatha,5,Biotechnology
+BTE20202416,Ilakiya,5,Biotechnology
+BTE20202417,Indira,5,Biotechnology
+BTE20202418,Janani,5,Biotechnology
+BTE20202419,Jayalakshmi,5,Biotechnology
+BTE20202420,Kavitha,5,Biotechnology
+BTE20202421,Keerthana,5,Biotechnology
+BTE20202422,Lavanya,5,Biotechnology
+BTE20202423,Meenakshi,5,Biotechnology
+BTE20202424,Monisha,5,Biotechnology
+BTE20202425,Nandhini,5,Biotechnology
+BTE20202426,Nivetha,5,Biotechnology
+BTE20202427,Oviya,5,Biotechnology
+BTE20202428,Pavithra,5,Biotechnology
+BTE20202429,Poornima,5,Biotechnology
+BTE20202430,Revathi,5,Biotechnology
+BTE20202431,Saranya,5,Biotechnology
+BTE20202432,Sindhu,5,Biotechnology
+BTE20202433,Thenmozhi,5,Biotechnology
+BTE20202434,Vasanthi,5,Biotechnology
+BTE20202435,Yamuna,5,Biotechnology
+BTE20202301,Aadhira,4,Biotechnology
+BTE20202302,Aishwarya,4,Biotechnology
+BTE20202303,Amudha,4,Biotechnology
+BTE20202304,Anitha,4,Biotechnology
+BTE20202305,Arasi,4,Biotechnology
+BTE20202306,Bhuvana,4,Biotechnology
+BTE20202307,Chandrika,4,Biotechnology
+BTE20202308,Dharani,4,Biotechnology
+BTE20202309,Devi,4,Biotechnology
+BTE20202310,Ezhil,4,Biotechnology
+BTE20202311,Geetha,4,Biotechnology
+BTE20202312,Gomathi,4,Biotechnology
+BTE20202313,Indhu,4,Biotechnology
+BTE20202314,Ishwarya,4,Biotechnology
+BTE20202315,Jayanthi,4,Biotechnology
+BTE20202316,Jothi,4,Biotechnology
+BTE20202317,Kalai,4,Biotechnology
+BTE20202318,Kalaivani,4,Biotechnology
+BTE20202319,Kalyani,4,Biotechnology
+BTE20202320,Krithika,4,Biotechnology
+BTE20202321,Lakshmi,4,Biotechnology
+BTE20202322,Lalitha,4,Biotechnology
+BTE20202323,Malathi,4,Biotechnology
+BTE20202324,Manimegalai,4,Biotechnology
+BTE20202325,Mithra,4,Biotechnology
+BTE20202326,Narmadha,4,Biotechnology
+BTE20202327,Padma,4,Biotechnology
+BTE20202328,Radha,4,Biotechnology
+BTE20202329,Ranjani,4,Biotechnology
+BTE20202330,Sangeetha,4,Biotechnology
+BTE20202331,Shanthi,4,Biotechnology
+BTE20202332,Subha,4,Biotechnology
+BTE20202333,Tamilselvi,4,Biotechnology
+BTE20202334,Uma,4,Biotechnology
+BTE20202335,Vimala,4,Biotechnology
+BTE20312001,Aadhya,3,Biotechnology
+BTE20312002,Aishwarya,3,Biotechnology
+BTE20312003,Amritha,3,Biotechnology
+BTE20312004,Anitha,3,Biotechnology
+BTE20312005,Aruna,3,Biotechnology
+BTE20312006,Bhavani,3,Biotechnology
+BTE20312007,Chandrika,3,Biotechnology
+BTE20312008,Charumathi,3,Biotechnology
+BTE20312009,Deepika,3,Biotechnology
+BTE20312010,Dharani,3,Biotechnology
+BTE20312011,Durga,3,Biotechnology
+BTE20312012,Ezhilarasi,3,Biotechnology
+BTE20312013,Geethanjali,3,Biotechnology
+BTE20312014,Gowri,3,Biotechnology
+BTE20312015,Haritha,3,Biotechnology
+BTE20312016,Hemalatha,3,Biotechnology
+BTE20312017,Indhu,3,Biotechnology
+BTE20312018,Ishwarya,3,Biotechnology
+BTE20312019,Janani,3,Biotechnology
+BTE20312020,Jayashree,3,Biotechnology
+BTE20312021,Kalyani,3,Biotechnology
+BTE20312022,Keerthi,3,Biotechnology
+BTE20312023,Lakshmi,3,Biotechnology
+BTE20312024,Lavanya,3,Biotechnology
+BTE20312025,Mahalakshmi,3,Biotechnology
+BTE20312026,Meena,3,Biotechnology
+BTE20312027,Nandhini,3,Biotechnology
+BTE20312028,Nivetha,3,Biotechnology
+BTE20312029,Oviya,3,Biotechnology
+BTE20312030,Pavithra,3,Biotechnology
+BTE20312031,Priyanka,3,Biotechnology
+BTE20312032,Revathi,3,Biotechnology
+BTE20312033,Sandhya,3,Biotechnology
+BTE20312034,Sindhu,3,Biotechnology
+BTE20312035,Thenmozhi,3,Biotechnology
+BTE20312036,Vasanthi,3,Biotechnology
+SIC20738001,Aadhirai,1,Sociology
+SIC20738002,Aarohi,1,Sociology
+SIC20738003,Amala,1,Sociology
+SIC20738004,Anusuya,1,Sociology
+SIC20738005,Arpitha,1,Sociology
+SIC20738006,Banupriya,1,Sociology
+SIC20738007,Chandana,1,Sociology
+SIC20738008,Darshini,1,Sociology
+SIC20738009,Devika,1,Sociology
+SIC20738010,Ezhiloviyam,1,Sociology
+SIC20738011,Gajalakshmi,1,Sociology
+SIC20738012,Haripriya,1,Sociology
+SIC20738013,Iniya,1,Sociology
+SIC20738014,Janitha,1,Sociology
+SIC20738015,Karthika,1,Sociology
+SIC20738016,Krishna,1,Sociology
+SIC20738017,Lalithaa,1,Sociology
+SIC20738018,Madhumitha,1,Sociology
+SIC20738019,Maheswari,1,Sociology
+SIC20738020,Nila,1,Sociology
+SIC20738021,Nithyashree,1,Sociology
+SIC20738022,Omana,1,Sociology
+SIC20738023,Pavithira,1,Sociology
+SIC20738024,Pranitha,1,Sociology
+SIC20738025,Radhika,1,Sociology
+SIC20738026,Rithanya,1,Sociology
+SIC20738027,Sathya,1,Sociology
+SIC20738028,Shobana,1,Sociology
+SIC20738029,Sruthi,1,Sociology
+SIC20738030,Thamarai,1,Sociology
+SIC20738031,Usharani,1,Sociology
+SIC20738032,Varsha,1,Sociology
+SIC20738033,Yazhini,1,Sociology
+SIC20738034,Yogitha,1,Sociology
+SIC20738035,Zeenath,1,Sociology
+SIC20739001,Aadhira,2,Sociology
+SIC20739002,Anitha,2,Sociology
+SIC20739003,Bhavani,2,Sociology
+SIC20739004,Deepa,2,Sociology
+SIC20739005,Gayathri,2,Sociology
+SIC20739006,Harini,2,Sociology
+SIC20739007,Kavitha,2,Sociology
+SIC20739008,Oviya,2,Sociology

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MessMate - Dashboard</title>
+    <link rel="stylesheet" href="rating.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- ================= SIDEBAR ================= -->
+    <div class="sidebar">
+
+        <div class="logo">
+            <h2>🍽 MessMate</h2>
+            <p class="tagline">Smart Mess Rating</p>
+        </div>
+
+        <ul class="nav-links">
+            <li class="active" id="menu-btn">🏠 Today's Menu</li>
+            <li id="history-btn">📊 Rating History</li>
+            <li id="profile-btn">👤 My Profile</li>
+        </ul>
+
+        <div class="sidebar-bottom">
+            <div class="signed-info">
+                <small>Signed in as</small>
+                <div id="signed-name" class="user-name"></div>
+                <div id="signed-regno" class="user-reg"></div>
+            </div>
+            <button class="logout-btn" id="logout-btn">Logout</button>
+        </div>
+
+    </div>
+
+    <!-- ================= MAIN CONTENT ================= -->
+    <div class="main">
+
+        <!-- ================= MENU SECTION ================= -->
+        <div id="menu-section">
+            <h1>Rate the food you've eaten today 🥗</h1>
+            <div class="meal-section" id="breakfast-section">
+                <h2>Breakfast</h2>
+                <div class="menu-row" id="breakfast-items"></div>
+            </div>
+
+            <div class="meal-section" id="lunch-section">
+                <h2>Lunch</h2>
+                <div class="menu-row" id="lunch-items"></div>
+            </div>
+
+            <div class="meal-section" id="dinner-section">
+                <h2>Dinner</h2>
+                <div class="menu-row" id="dinner-items"></div>
+            </div>
+
+            <!-- ================= FEEDBACK BOX ================= -->
+            <div class="feedback-box">
+                <h3>Leave Feedback</h3>
+                <form>
+                    <input type="hidden" name="meal_type" value="general">
+                    <textarea name="feedback" class="feedback-textarea" placeholder="Enter your feedback..." required></textarea>
+                    <button type="submit" class="feedback-btn">Submit Feedback</button>
+                </form>
+            </div>
+
+            <!-- ================= MENU CHANGE REQUEST ================= -->
+            <div class="request-box">
+                <h3 class="request-title">Request Menu Change</h3>
+                <form>
+                    <input type="hidden" name="meal_type" value="general">
+                    <textarea name="message" class="request-textarea" placeholder="Enter which food to change and why..." required></textarea>
+                    <button type="submit" class="request-btn">Send Request</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- ================= HISTORY SECTION ================= -->
+        <div id="history-section" style="display:none;">
+            <h1>Recent Activity</h1>
+            <div id="history-container"></div>
+        </div>
+
+        <!-- ================= PROFILE SECTION ================= -->
+        <div id="profile-section" style="display:none;">
+            <h1>My Profile</h1>
+            <p class="subtitle">Manage your student information and preferences.</p>
+
+            <div class="profile-container">
+                <div class="profile-summary">
+                    <div class="avatar" id="profile-initials">--</div>
+                    <h3 id="profile-name">Student Name</h3>
+                    <p id="profile-reg">Register No</p>
+                    <span class="status">Active Student</span>
+                </div>
+
+                <div class="profile-details">
+                    <h3>Personal Information</h3>
+                    <div class="info-grid">
+                        <div>
+                            <label>Register Number</label>
+                            <p id="detail-reg">--</p>
+                        </div>
+                        <div>
+                            <label>Department</label>
+                            <p id="detail-dept">--</p>
+                        </div>
+                        <div>
+                            <label>Semester</label>
+                            <p id="detail-sem">--</p>
+                        </div>
+                        <div>
+                            <label>Name</label>
+                            <p id="detail-name">--</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script src="rating.js"></script>
+</body>
+</html>

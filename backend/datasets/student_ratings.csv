@@ -1,0 +1,101 @@
+rating_id,register_no,food_id,food_name,date,meal_type,rating  ,feedback
+1,REG001,F001,Idli,01-01-2024,Breakfast,5,Very tasty
+2,REG002,F001,Idli,02-01-2024,Breakfast,4,Soft and good
+3,REG003,F001,Idli,03-01-2024,Breakfast,3,Average
+4,REG004,F001,Idli,04-01-2024,Breakfast,2,Cold
+5,REG005,F001,Idli,05-01-2024,Breakfast,5,Excellent
+6,REG006,F002,Dosa,06-01-2024,Breakfast,5,Crispy
+7,REG007,F002,Dosa,07-01-2024,Breakfast,4,Good
+8,REG008,F002,Dosa,08-01-2024,Breakfast,3,Okay
+9,REG009,F002,Dosa,09-01-2024,Breakfast,2,Oily
+10,REG010,F002,Dosa,10-01-2024,Breakfast,5,Perfect
+11,REG011,F003,Pongal,11-01-2024,Breakfast,4,Tasty
+12,REG012,F003,Pongal,12-01-2024,Breakfast,3,Normal
+13,REG013,F003,Pongal,13-01-2024,Breakfast,5,Very good
+14,REG014,F003,Pongal,14-01-2024,Breakfast,2,Too salty
+15,REG015,F003,Pongal,15-01-2024,Breakfast,4,Nice
+16,REG016,F004,Upma,16-01-2024,Breakfast,3,Average
+17,REG017,F004,Upma,17-01-2024,Breakfast,4,Good
+18,REG018,F004,Upma,18-01-2024,Breakfast,2,Dry
+19,REG019,F004,Upma,19-01-2024,Breakfast,5,Very tasty
+20,REG020,F004,Upma,20-01-2024,Breakfast,4,Soft
+21,REG021,F005,Sambar Rice,21-01-2024,Lunch,5,Excellent
+22,REG022,F005,Sambar Rice,22-01-2024,Lunch,4,Good
+23,REG023,F005,Sambar Rice,23-01-2024,Lunch,3,Okay
+24,REG024,F005,Sambar Rice,24-01-2024,Lunch,2,Watery
+25,REG025,F005,Sambar Rice,25-01-2024,Lunch,5,Perfect
+26,REG026,F006,Curd Rice,26-01-2024,Lunch,5,Refreshing
+27,REG027,F006,Curd Rice,27-01-2024,Lunch,4,Good
+28,REG028,F006,Curd Rice,28-01-2024,Lunch,3,Normal
+29,REG029,F006,Curd Rice,29-01-2024,Lunch,2,Sour
+30,REG030,F006,Curd Rice,30-01-2024,Lunch,5,Tasty
+31,REG031,F007,Lemon Rice,31-01-2024,Lunch,5,Excellent
+32,REG032,F007,Lemon Rice,01-02-2024,Lunch,4,Good
+33,REG033,F007,Lemon Rice,02-02-2024,Lunch,3,Average
+34,REG034,F007,Lemon Rice,03-02-2024,Lunch,2,Sour
+35,REG035,F007,Lemon Rice,04-02-2024,Lunch,5,Perfect
+36,REG036,F008,Tomato Rice,05-02-2024,Lunch,4,Good
+37,REG037,F008,Tomato Rice,06-02-2024,Lunch,3,Normal
+38,REG038,F008,Tomato Rice,07-02-2024,Lunch,5,Very tasty
+39,REG039,F008,Tomato Rice,08-02-2024,Lunch,2,Overcooked
+40,REG040,F008,Tomato Rice,09-02-2024,Lunch,4,Nice
+41,REG041,F009,Chapati,10-02-2024,Dinner,5,Soft
+42,REG042,F009,Chapati,11-02-2024,Dinner,4,Good
+43,REG043,F009,Chapati,12-02-2024,Dinner,3,Average
+44,REG044,F009,Chapati,13-02-2024,Dinner,2,Hard
+45,REG045,F009,Chapati,14-02-2024,Dinner,5,Perfect
+46,REG046,F010,Veg Curry,15-02-2024,Dinner,5,Delicious
+47,REG047,F010,Veg Curry,16-02-2024,Dinner,4,Good
+48,REG048,F010,Veg Curry,17-02-2024,Dinner,3,Okay
+49,REG049,F010,Veg Curry,18-02-2024,Dinner,2,Too spicy
+50,REG050,F010,Veg Curry,19-02-2024,Dinner,5,Excellent
+51,REG051,F011,Fried Rice,20-02-2024,Lunch,5,Tasty
+52,REG052,F011,Fried Rice,21-02-2024,Lunch,4,Good
+53,REG053,F011,Fried Rice,22-02-2024,Lunch,3,Average
+54,REG054,F011,Fried Rice,23-02-2024,Lunch,2,Oily
+55,REG055,F011,Fried Rice,24-02-2024,Lunch,5,Perfect
+56,REG056,F012,Parotta,25-02-2024,Dinner,4,Good
+57,REG057,F012,Parotta,26-02-2024,Dinner,5,Very tasty
+58,REG058,F012,Parotta,27-02-2024,Dinner,3,Average
+59,REG059,F012,Parotta,28-02-2024,Dinner,2,Hard
+60,REG060,F012,Parotta,29-02-2024,Dinner,4,Nice
+61,REG061,F013,Veg Biryani,01-03-2024,Lunch,5,Excellent
+62,REG062,F013,Veg Biryani,02-03-2024,Lunch,4,Good
+63,REG063,F013,Veg Biryani,03-03-2024,Lunch,3,Okay
+64,REG064,F013,Veg Biryani,04-03-2024,Lunch,2,Dry
+65,REG065,F013,Veg Biryani,05-03-2024,Lunch,5,Perfect
+66,REG066,F014,Rasam Rice,06-03-2024,Lunch,4,Good
+67,REG067,F014,Rasam Rice,07-03-2024,Lunch,3,Normal
+68,REG068,F014,Rasam Rice,08-03-2024,Lunch,2,Watery
+69,REG069,F014,Rasam Rice,09-03-2024,Lunch,5,Very tasty
+70,REG070,F014,Rasam Rice,10-03-2024,Lunch,4,Nice
+71,REG071,F015,Poori,11-03-2024,Breakfast,5,Crispy
+72,REG072,F015,Poori,12-03-2024,Breakfast,4,Good
+73,REG073,F015,Poori,13-03-2024,Breakfast,3,Okay
+74,REG074,F015,Poori,14-03-2024,Breakfast,2,Oily
+75,REG075,F015,Poori,15-03-2024,Breakfast,5,Excellent
+76,REG076,F016,Vada,16-03-2024,Breakfast,4,Crispy
+77,REG077,F016,Vada,17-03-2024,Breakfast,5,Very good
+78,REG078,F016,Vada,18-03-2024,Breakfast,3,Average
+79,REG079,F016,Vada,19-03-2024,Breakfast,2,Hard
+80,REG080,F016,Vada,20-03-2024,Breakfast,4,Nice
+81,REG081,F017,Khichdi,21-03-2024,Lunch,4,Good
+82,REG082,F017,Khichdi,22-03-2024,Lunch,3,Normal
+83,REG083,F017,Khichdi,23-03-2024,Lunch,5,Very tasty
+84,REG084,F017,Khichdi,24-03-2024,Lunch,2,Plain
+85,REG085,F017,Khichdi,25-03-2024,Lunch,4,Nice
+86,REG086,F018,Paneer Curry,26-03-2024,Dinner,5,Excellent
+87,REG087,F018,Paneer Curry,27-03-2024,Dinner,4,Good
+88,REG088,F018,Paneer Curry,28-03-2024,Dinner,3,Okay
+89,REG089,F018,Paneer Curry,29-03-2024,Dinner,2,Too spicy
+90,REG090,F018,Paneer Curry,30-03-2024,Dinner,5,Perfect
+91,REG091,F019,Milk,31-03-2024,Breakfast,4,Good
+92,REG092,F019,Milk,01-04-2024,Breakfast,5,Fresh
+93,REG093,F019,Milk,02-04-2024,Breakfast,3,Normal
+94,REG094,F019,Milk,03-04-2024,Breakfast,2,Cold
+95,REG095,F019,Milk,04-04-2024,Breakfast,4,Nice
+96,REG096,F020,Bread Jam,05-04-2024,Breakfast,5,Tasty
+97,REG097,F020,Bread Jam,06-04-2024,Breakfast,4,Good
+98,REG098,F020,Bread Jam,07-04-2024,Breakfast,3,Average
+99,REG099,F020,Bread Jam,08-04-2024,Breakfast,2,Stale
+100,REG100,F020,Bread Jam,09-04-2024,Breakfast,5,Excellent

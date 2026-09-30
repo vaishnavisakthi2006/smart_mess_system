@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Mess Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="login-wrapper">
+
+    <h1>Welcome Back</h1>
+    <p>Sign in to your account to continue</p>
+
+    <!-- Role Toggle Tabs -->
+    <div id="role-toggle">
+        <button id="student-tab" class="tab active-tab">Student</button>
+        <button id="admin-tab" class="tab">Admin</button>
+    </div>
+
+    <!-- Student Form -->
+    <form id="student-form">
+        <label>Register Number</label>
+        <input type="text" id="student-username" placeholder="Enter register number">
+
+        <label>Password</label>
+        <input type="password" id="student-password" placeholder="Enter password">
+
+        <button type="button" id="student-login-btn">Sign In as Student</button>
+
+        <div>
+            <a href="/register.html">Register</a>
+        </div>
+    </form>
+
+    <!-- Admin Form -->
+    <form id="admin-form" style="display:none;">
+        <label>Admin ID</label>
+        <input type="text" id="admin-username" placeholder="Enter admin ID">
+
+        <label>Password</label>
+        <input type="password" id="admin-password" placeholder="Enter password">
+
+        <button type="button" id="admin-login-btn">Sign In as Admin</button>
+    </form>
+
+</div>
+
+<script src="login.js"></script>
+</body>
+</html>

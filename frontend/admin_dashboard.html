@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MessMate Admin Portal</title>
+    <!-- External CSS -->
+    <link rel="stylesheet" href="admin_dashboard.css">
+</head>
+<body>
+
+<!-- ================= SIDEBAR ================= -->
+<div class="sidebar">
+    <div class="logo-section">
+        <i class="fas fa-hat-chef"></i>
+        <div class="logo-text">
+            <h2>🍽MessMate</h2>
+           <br> <p>Admin Portal</p>
+        </div>
+    </div>
+
+    <ul class="menu">
+        <li id="dashboard-btn" class="active"><i class="fas fa-chart-line"></i>📊 Dashboard</li>
+        <li id="menu-btn"><i class="fas fa-utensils"></i>🏢Menu Management</li>
+        <li id="students-btn"><i class="fas fa-user-graduate"></i>🧑🏻‍🎓 Students</li>
+    </ul>
+
+    <div class="logout" onclick="logout()">
+        <i class="fas fa-sign-out-alt"></i> Logout
+    </div>
+</div>
+
+<!-- ================= DASHBOARD ================= -->
+<div id="dashboard-section" class="section active"> <!-- add id and section class -->
+    <h1>Dashboard</h1>
+
+
+   <div class="card-container">
+        <!-- Existing cards -->
+        <br><div class="dashboard-card">
+            <h3>Average Rating</h3>
+            <p id="avg-rating">-</p>
+        </div>
+        <div class="dashboard-card">
+            <h3>Top Item</h3>
+            <p id="top-item">-</p>
+        </div>
+        <div class="dashboard-card">
+            <h3>Needs Improvement</h3>
+            <p id="needs-improvement">-</p>
+        </div>
+
+        <!-- NEW cards -->
+        <div class="dashboard-card">
+            <h3>Total Feedbacks</h3>
+            <p id="total-feedbacks">0</p>
+        </div>
+        <div class="dashboard-card">
+            <h3>Total Change Requests</h3>
+            <p id="total-change-requests">0</p>
+        </div>
+    </div>
+
+    <div class="graph-card">
+        <h3>📈 Weekly Rating Trend</h3>
+        <canvas id="ratingChart"></canvas>
+    </div>
+
+    <div class="graph-card">
+        <h3>📊 Food Performance Analysis</h3>
+        <canvas id="foodChart"></canvas>
+    </div>
+
+    <div class="graph-card">
+    <h3>💬 Feedback Sentiment Analysis</h3>
+    <canvas id="sentimentChart"></canvas>
+
+</div>
+<p>Click here for downloading Weekly pdf 🔻 </p>
+<button onclick="downloadWeeklyReport()">Download Weekly PDF Report</button>
+
+</div>
+
+    <!-- ================= MENU MANAGEMENT ================= -->
+    <div id="menu-section" class="section">
+        <h1>Today's Menu Management</h1>
+
+        <div class="menu-editor">
+
+            <!-- LEFT SIDE: Today's Menu -->
+            <div class="menu-list">
+                <div class="meal-card">
+                    <h3>🍳 Breakfast</h3>
+                    <ul id="Breakfast-list"></ul>
+                </div>
+
+                <div class="meal-card">
+                    <h3>🍛 Lunch</h3>
+                    <ul id="Lunch-list"></ul>
+                </div>
+
+                <div class="meal-card">
+                    <h3>🌙 Dinner</h3>
+                    <ul id="Dinner-list"></ul>
+                </div>
+            </div>
+
+            <!-- RIGHT SIDE: Add + Requests -->
+            <div class="add-menu">
+                <h3>Add New Item (Today)</h3>
+
+                <label>Select Meal</label>
+                <select id="meal-type">
+                    <option value="Breakfast">Breakfast</option>
+                    <option value="Lunch">Lunch</option>
+                    <option value="Dinner">Dinner</option>
+                </select>
+
+                <label>Item Name</label>
+                <input type="text" id="new-item" placeholder="Enter food name">
+
+                <button onclick="addItem()">Add Item</button>
+
+                <hr style="margin:20px 0;">
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= STUDENTS SECTION ================= -->
+    <div id="students-section" class="section">
+        <h1>Registered Users</h1>
+
+        <div class="student-table-container">
+            <table class="student-table">
+                <thead>
+                    <tr>
+                        <th>Register No</th>
+                        <th>Name</th>
+                        <th>Semester</th>
+                        <th>Department</th>
+                        <th>Date</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="student-table-body"></tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+
+<!-- External JS -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="admin_dashboard.js"></script>
+</body>
+</html>

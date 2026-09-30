@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Register</title>
+
+<style>
+
+/* ===== RESET ===== */
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* ===== BACKGROUND ===== */
+body{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:whitesmoke;
+}
+
+/* ===== CARD CONTAINER ===== */
+.register-card{
+background:#ffffff;
+width:360px;
+padding:40px;
+border-radius:10px;
+box-shadow:0 6px 20px rgba(0,0,0,0.08);
+}
+
+/* ===== TITLE ===== */
+.register-card h2{
+text-align:center;
+margin-bottom:30px;
+color:#333;
+font-weight:600;
+}
+
+/* ===== LABEL ===== */
+label{
+display:block;
+margin-bottom:6px;
+font-size:14px;
+color:#555;
+font-weight:500;
+}
+
+/* ===== INPUT ===== */
+input{
+width:100%;
+padding:11px;
+margin-bottom:18px;
+border:1px solid #dcdcdc;
+border-radius:6px;
+font-size:14px;
+transition:0.2s;
+}
+
+input:focus{
+border-color:#ff7f32;
+outline:none;
+box-shadow:0 0 0 2px rgba(255,127,50,0.1);
+}
+
+/* ===== BUTTON ===== */
+button{
+width:100%;
+padding:12px;
+background:#ff7f32;
+border:none;
+border-radius:6px;
+color:white;
+font-size:15px;
+font-weight:600;
+cursor:pointer;
+transition:0.25s;
+}
+
+button:hover{
+background:#e86616;
+}
+
+/* ===== LOGIN LINK ===== */
+.login-link{
+text-align:center;
+margin-top:18px;
+font-size:14px;
+color:#666;
+}
+
+.login-link a{
+text-decoration:none;
+color:#ff7f32;
+font-weight:600;
+}
+
+.login-link a:hover{
+text-decoration:underline;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="register-card">
+
+<h2>Student Register</h2>
+
+<form id="registerForm">
+
+<label for="register_no">Register Number</label>
+<input type="text" id="register_no" name="register_no">
+
+<label for="password">Password</label>
+<input type="password" id="password" name="password">
+
+<button type="submit">Register</button>
+
+</form>
+
+<div class="login-link">
+<a href="login.html">Already have an account? Login here</a>
+</div>
+
+</div>
+
+<script src="register.js"></script>
+
+</body>
+</html>

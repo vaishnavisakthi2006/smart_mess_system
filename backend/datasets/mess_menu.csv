@@ -1,0 +1,92 @@
+date,day,meal_type,mess_menu,category
+2026-03-02,Monday,Breakfast,Idli Sambar,Veg
+2026-03-02,Monday,Lunch,Veg Rice,Veg
+2026-03-02,Monday,Dinner,Idli Chutney,Non-Veg
+2026-03-03,Tuesday,Breakfast,Dosa Sambar,Veg
+2026-03-03,Tuesday,Lunch,Rice Sambar,Veg
+2026-03-03,Tuesday,Dinner,Idli Chicken curry,Non-Veg
+2026-03-04,Wednesday,Breakfast,Bread Jam,Veg
+2026-03-04,Wednesday,Lunch,Pulao,Veg
+2026-03-04,Wednesday,Dinner,Chapati Paneer Butter Masala,Veg
+2026-03-05,Thursday,Breakfast,Poori Potato Gravy,Veg
+2026-03-05,Thursday,Lunch,Mixed Herb Rice,Veg
+2026-03-05,Thursday,Dinner,Paratha,Veg
+2026-03-06,Friday,Lunch,Coconut Rice,Veg
+2026-03-06,Friday,Dinner,Paratha,Veg
+2026-03-07,Saturday,Breakfast,Chicken Masala,Non-Veg
+2026-03-07,Saturday,Lunch,Rice Mixed Veg Curry,Veg
+2026-03-07,Saturday,Dinner,Chapati,Veg
+2026-03-08,Sunday,Lunch,Rice Egg Curry,Non-Veg
+2026-03-08,Sunday,Dinner,Idiyappam,Veg
+2026-03-09,Monday,Lunch,Sambar rice Omelette,Non-Veg
+2026-03-09,Monday,Dinner,Idiyappam,Veg
+2026-03-10,Tuesday,Breakfast,Dosa Sambar,Veg
+2026-03-10,Tuesday,Lunch,Rasam Egg,Non-Veg
+2026-03-10,Tuesday,Dinner,Chapati Vegetable Kurma,Veg
+2026-03-11,Wednesday,Breakfast,Idli Chutney,Veg
+2026-03-11,Wednesday,Lunch,Rice Paneer Masala,Veg
+2026-03-11,Wednesday,Dinner,Appam,Veg
+2026-03-12,Thursday,Breakfast,Idli sambar,Veg
+2026-03-12,Thursday,Lunch,Veg Rice,Veg
+2026-03-12,Thursday,Dinner,Idiyappam,Veg
+2026-03-13,Friday,Breakfast,Idli sambar,Veg
+2026-03-13,Friday,Lunch,Rasam egg,Non-Veg
+2026-03-13,Friday,Dinner, Idli Chicken Gravy,Non-Veg
+2026-03-14,Saturday,Breakfast,Vegetable salad,Veg
+2026-03-14,Saturday,Lunch,Curd rice,Veg
+2026-03-14,Saturday,Dinner,Idiyappam,Veg
+2026-03-15,Sunday,Breakfast,Poori potato masala,Veg
+2026-03-15,Sunday,Lunch,Veg Rice,Veg
+2026-03-15,Sunday,Dinner,Dosa Chutney,Veg
+2026-03-16,Monday,Lunch,Rice Sambar,Veg
+2026-03-16,Monday,Dinner,Dosa Sambar,Veg
+2026-03-17,Tuesday,Breakfast,Idli vada,Veg
+2026-03-17,Tuesday,Lunch,Mixed Veg rice,Veg
+2026-03-17,Tuesday,Dinner,Chapati,Veg
+2026-03-18,Wednesday,Breakfast,Chapati Paneer Butter Masala,Veg
+2026-03-18,Wednesday,Lunch,Mixed Herb Rice,Veg
+2026-03-18,Wednesday,Dinner,Poori,Veg
+2026-03-19,Thursday,Lunch,Curd rice,Veg
+2026-03-19,Thursday,Dinner,Idli vada,Veg
+2026-03-20,Friday,Breakfast,Chapati Paneer Butter Masala,Veg
+2026-03-20,Friday,Lunch,Veg Rice,Veg
+2026-03-20,Friday,Dinner,Idiyappam,Veg
+2026-03-21,Saturday,Breakfast,Bread Jam,Veg
+2026-03-21,Saturday,Lunch,Mixed Veg rice,Veg
+2026-03-21,Saturday,Dinner,Paratha,Veg
+2026-03-22,Sunday,Breakfast,Rasam,Veg
+2026-03-22,Sunday,Lunch,Rice Chicken Masala,Non-Veg
+2026-03-22,Sunday,Dinner,idli Chicken Masala,Non-Veg
+2026-03-23,Monday,Breakfast,Idli Sambar,Veg
+2026-03-23,Monday,Lunch,Rice Sambar Potato Fry,Veg
+2026-03-23,Monday,Dinner,Chapati Veg Kurma,Veg
+2026-03-24,Tuesday,Breakfast,Dosa Coconut Chutney,Veg
+2026-03-24,Tuesday,Lunch,Rice Fish Curry,Non-Veg
+2026-03-24,Tuesday,Dinner,Upma Chutney,Veg
+2026-03-25,Wednesday,Breakfast,Pongal Sambar,Veg
+2026-03-25,Wednesday,Lunch,Rice Egg Curry,Non-Veg
+2026-03-25,Wednesday,Dinner,Chapati Dal,Veg
+2026-03-26,Thursday,Breakfast,Idiyappam Coconut Milk,Veg
+2026-03-26,Thursday,Lunch,Rice Veg Biryani,Veg
+2026-03-26,Thursday,Dinner,Dosa Tomato Chutney,Veg
+2026-03-27,Friday,Breakfast,Upma Sambar,Veg
+2026-03-27,Friday,Lunch,Rice Chicken Curry,Non-Veg
+2026-03-27,Friday,Dinner,Chapati Paneer Butter Masala,Veg
+2026-03-28,Saturday,Breakfast,Poori Masala,Veg
+2026-03-28,Saturday,Lunch,Rice Mutton Curry,Non-Veg
+2026-03-28,Saturday,Dinner,Idli Sambar,Veg
+2026-03-29,Sunday,Breakfast,Dosa Sambar,Veg
+2026-03-29,Sunday,Lunch,Rice Chicken Biryani,Non-Veg
+2026-03-29,Sunday,Dinner,Chapati Kurma,Veg
+2026-03-30,Monday,Breakfast,Pongal Chutney,Veg
+2026-03-30,Monday,Lunch,Rice Rasam Beans Poriyal,Veg
+2026-03-30,Monday,Dinner,Dosa Egg Curry,Non-Veg
+2026-03-31,Tuesday,Breakfast,Idli Chutney,Veg
+2026-03-31,Tuesday,Lunch,Rice Fish Fry,Non-Veg
+2026-03-31,Tuesday,Dinner,Upma Coconut Chutney,Veg
+2026-04-05,Sunday,Breakfast,Idli Chutney,Veg
+2026-04-05,Sunday,Lunch,Rice Fish Fry,Non-Veg
+2026-04-05,Sunday,Dinner,Upma Coconut Chutney,Veg
+2026-04-06,Sunday,Breakfast,Idli Chutney,Veg
+2026-04-06,Sunday,Lunch,Rice Fish Fry,Non-Veg
+2026-04-06,Sunday,Dinner,Upma Coconut Chutney,Veg
